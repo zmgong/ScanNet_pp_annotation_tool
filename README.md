@@ -4,6 +4,7 @@ A WebGL-based interactive data browser for ScanRefer dataset. Learn more about t
 ### 0. Create Conda env.
 
 ```shell
+conda create -n ScanNetPP_annotation_tool python=3.10
 conda activate ScanNetPP_annotation_tool
 ```
 
