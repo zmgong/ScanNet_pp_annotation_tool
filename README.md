@@ -1,6 +1,12 @@
 # ScanRefer Browser
 A WebGL-based interactive data browser for ScanRefer dataset. Learn more about the ScanRefer project at [the project website](https://daveredrum.github.io/ScanRefer/).
 
+### 0. Create Conda env.
+
+```shell
+conda activate ScanNetPP_annotation_tool
+```
+
 ## Getting started
 
 ### 1. Install NodeJS
